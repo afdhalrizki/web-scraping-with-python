@@ -10,6 +10,13 @@ Before running the server you need to install some packages from requirements.tx
 pip install -r requirements.txt
 ```
 
+### Running Application
+
+To running application just run 'run.py' file
+
+```
+python run.py
+```
 
 ## Built With
 * [Beatiful Soup](https://www.crummy.com/software/BeautifulSoup/) - Python package for parsing HTML and XML documents
